@@ -1,0 +1,2 @@
+- When creating components use the design system named "ng-zorro"
+- Use design tokens / css variables from src/styles.css rather than creating css
